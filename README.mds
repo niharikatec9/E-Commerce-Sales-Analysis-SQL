@@ -3,7 +3,7 @@ Designed and implemented a relational database to analyze e-commerce sales, cust
 create_tables.sql
 sample_queries.sql
 er_diagram.png
-README.md
+README.mds
 .gitignore
 
 -- Create database
